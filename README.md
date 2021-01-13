@@ -1,2 +1,2 @@
 # us-west
-Western US Second Notice Repository
+Western US high-risk seismic time window repository.
