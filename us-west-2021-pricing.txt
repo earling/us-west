@@ -30,8 +30,10 @@ Date	Risk Level	Premium (USD)	Suggessted Price (USD)	Applying to
 29-Jan-21	Low	22		
 30-Jan-21	Low	22		
 31-Jan-21	Low	22		
-1-Feb-21	High	22	1500	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,Goldfield,Dyer,Mina,Silver Peak"
-2-Feb-21	High	22	1500	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,Goldfield,Dyer,Mina,Silver Peak"
-3-Feb-21	High	22	1500	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,Goldfield,Dyer,Mina,Silver Peak"
-4-Feb-21	Mid	22	1000	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,Goldfield,Dyer,Mina,Silver Peak"
-5-Feb-21	Mid	22	1000	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,Goldfield,Dyer,Mina,Silver Peak"
+1-Feb-21	High	22	1500	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,City of Gabbs (historical),Goldfield,Dyer,Mina,Silver Peak"
+2-Feb-21	High	22	1500	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,City of Gabbs (historical),Goldfield,Dyer,Mina,Silver Peak"
+3-Feb-21	High	22	1500	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,City of Gabbs (historical),Goldfield,Dyer,Mina,Silver Peak"
+4-Feb-21	Mid	22	1000	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,City of Gabbs (historical),Goldfield,Dyer,Mina,Silver Peak"
+5-Feb-21	Mid	22	800	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,City of Gabbs (historical),Goldfield,Dyer,Mina,Silver Peak"
+6-Feb-21	Mid	22	500	"Mono County,Mineral County,Hawthorne,Tonopah,Esmeralda County,Benton,Walker Lake,Gabbs,City of Gabbs (historical),Goldfield,Dyer,Mina,Silver Peak"
+7-Feb-21	Low	22		
