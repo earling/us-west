@@ -1,43 +1,46 @@
-Date	Risk Level	Premium (USD)	Suggessted Price (USD)
-1-Jan-21	Low	22	
-2-Jan-21	Low	22	
-3-Jan-21	Low	22	
-4-Jan-21	Low	22	
-5-Jan-21	Low	22	
-6-Jan-21	Low	22	
-7-Jan-21	Low	22	
-8-Jan-21	Low	22	
-9-Jan-21	Low	22	
-10-Jan-21	Low	22	
-11-Jan-21	Low	22	
-12-Jan-21	Low	22	
-13-Jan-21	Low	22	
-14-Jan-21	Low	22	
-15-Jan-21	Low	22	
-16-Jan-21	Low	22	
-17-Jan-21	Low	22	
-18-Jan-21	Low	22	
-19-Jan-21	Low	22	
-20-Jan-21	Low	22	
-21-Jan-21	Low	22	
-22-Jan-21	Low	22	
-23-Jan-21	Low	22	
-24-Jan-21	Low	22	
-25-Jan-21	Low	22	
-26-Jan-21	Low	22	
-27-Jan-21	Low	22	
-28-Jan-21	Low	22	
-29-Jan-21	Low	22	
-30-Jan-21	Low	22	
-31-Jan-21	Low	22	
-1-Feb-21	High	22	1500
-2-Feb-21	High	22	1500
-3-Feb-21	High	22	1500
-4-Feb-21	Mid	22	1000
-5-Feb-21	Mid	22	800
-6-Feb-21	Mid	22	500
-7-Feb-21	Low	22	
-8-Feb-21	Low	22	
-9-Feb-21	Low	22	
-10-Feb-21	Low	22	
-11-Feb-21	Low	22	
+Date	Risk Level	Premium (USD)	Suggessted Price (USD)	NotificationID
+1-Jan-21	Low	22		
+2-Jan-21	Low	22		
+3-Jan-21	Low	22		
+4-Jan-21	Low	22		
+5-Jan-21	Low	22		
+6-Jan-21	Low	22		
+7-Jan-21	Low	22		
+8-Jan-21	Low	22		
+9-Jan-21	Low	22		
+10-Jan-21	Low	22		
+11-Jan-21	Low	22		
+12-Jan-21	Low	22		
+13-Jan-21	Low	22		
+14-Jan-21	Low	22		
+15-Jan-21	Low	22		
+16-Jan-21	Low	22		
+17-Jan-21	Low	22		
+18-Jan-21	Low	22		
+19-Jan-21	Low	22		
+20-Jan-21	Low	22		
+21-Jan-21	Low	22		
+22-Jan-21	Low	22		
+23-Jan-21	Low	22		
+24-Jan-21	Low	22		
+25-Jan-21	Low	22		
+26-Jan-21	Low	22		
+27-Jan-21	Low	22		
+28-Jan-21	Low	22		
+29-Jan-21	Low	22		
+30-Jan-21	Low	22		
+31-Jan-21	Low	22		
+1-Feb-21	High	22	1500	A49BC7BA8CB5A8EE984132300C564857
+2-Feb-21	High	22	1500	A49BC7BA8CB5A8EE984132300C564858
+3-Feb-21	High	22	1500	A49BC7BA8CB5A8EE984132300C564859
+4-Feb-21	Mid	22	1000	A49BC7BA8CB5A8EE984132300C564860
+5-Feb-21	Mid	22	800	A49BC7BA8CB5A8EE984132300C564861
+6-Feb-21	Mid	22	500	A49BC7BA8CB5A8EE984132300C564862
+7-Feb-21	Low	22		
+8-Feb-21	Low	22		
+9-Feb-21	Low	22		
+10-Feb-21	Low	22		
+11-Feb-21	Low	22		
+12-Feb-21	Low	22		
+13-Feb-21	Low	22		
+14-Feb-21	Low	22		
