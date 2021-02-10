@@ -1,3 +1,5 @@
+![Earling SecondNotice Open Dashboard](https://github.com/earling/us-west/blob/main/secondnotice-parametric-risks.JPG?raw=true)
+
 # us-west
 Sample of data usage in NatCat risk assesment in the insurance industry:
 http://tiny.cc/2vfhtz
