@@ -4,7 +4,6 @@ http://tiny.cc/2vfhtz
 
 DOI: 10.13140/RG.2.2.34428.67200
 
-You are in Western US high-risk seismic time window repository. This repository updating based on Earling SecondNotice natcat data analysis.
-You can use it with no warranty.
+You are in Western US high-risk seismic time window repository. This repository updating based on Earling SecondNotice natcat data analysis. You can use it with no warranty.
 
 ![Earling SecondNotice Open Dashboard](https://github.com/earling/us-west/blob/main/secondnotice-parametric-dashboard.JPG?raw=true)
