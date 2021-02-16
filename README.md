@@ -1,4 +1,5 @@
 # us-west
+![Earling SecondNotice Open Dashboard](https://github.com/earling/us-west/blob/main/earling-data-diagram.jpg?raw=true)
 SecondNotice is an innovative Earthquake Preparedness Alert data repository, which publish alerts from hours untile a few days before unusual earthquake. A HowTo data usage in NatCat risk assesment in the insurance industry: 
 http://tiny.cc/2vfhtz
 
