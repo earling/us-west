@@ -5,7 +5,7 @@ http://tiny.cc/2vfhtz
 
 You are in Western US high-risk seismic time window repository. This repository updating based on Earling SecondNotice natcat data analysis. You can use it with no warranty.
 
-DOI: 10.13140/RG.2.2.34428.67200
+### DOI: 10.13140/RG.2.2.34428.67200
 
 ## How to use this repository data
 
