@@ -7,4 +7,6 @@ You are in Western US high-risk seismic time window repository. This repository 
 
 DOI: 10.13140/RG.2.2.34428.67200
 
+## How to use this repository data
+
 ![Earling SecondNotice Open Dashboard](https://github.com/earling/us-west/blob/main/img/secondnotice-parametric-dashboard.jpg?raw=true)
